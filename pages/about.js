@@ -1,4 +1,5 @@
  import Head from 'next/head'
+
 const about = () => {
 
     return (
@@ -7,6 +8,8 @@ const about = () => {
                 <title> About me </title>
 
             </Head>
+
+            <h1></h1>
         </div>
     )
 }
